@@ -1,8 +1,8 @@
 def hello_world():
-    print(f'Hello World {city}!')
+    print(f'Hello World {state}!')
 
 
 def main():
-    hello_world('NYC')
+    hello_world('New York')
 
 main()
